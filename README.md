@@ -19,7 +19,7 @@ This project presents an electromyography (EMG) based hand grip recognition syst
 
 ## Results
 
-![image](https://user-images.githubusercontent.com/75938096/231703674-6022a6f1-cb97-4186-855b-d9b843458de0.png)
+   ![image](https://user-images.githubusercontent.com/75938096/231703674-6022a6f1-cb97-4186-855b-d9b843458de0.png)
 
 
 
